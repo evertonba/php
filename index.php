@@ -1,6 +1,5 @@
 <?php
-	
-	echo "HeloooooW!!!";
 
+	echo "Bamooooo!!";
 
-?>
+  ?>
